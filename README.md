@@ -1,4 +1,4 @@
-#2025-09-09 git
+#2025-09-09 git commands
 
 Some common git commands -->
     `push` : Will push your changes to the remote
