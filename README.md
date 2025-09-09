@@ -1,9 +1,8 @@
 #2025-09-09
 
-Add this line
-Add this other line.
-
-#does the hashtag do anything?
-lets see
-    Seems like the answer is no.
-
+Some common git commands -->
+    `push` : Will push your changes to the remote
+    `commit` : will commit your changes to the branch
+    `add` : will add your changes to the staging area
+    `log` : will show the history of commits and changes that have been made
+        optional flags --> --oneline --graph
